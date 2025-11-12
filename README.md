@@ -1,4 +1,4 @@
-# IDS-CIC-IoMT-2024-
+# IDS-CIC-IoMT-2024 with Federated learning.
 Purpose: To provide a realistic dataset for developing and evaluating Intrusion Detection Systems (IDS) in healthcare IoT environments.
 Devices: 40 IoMT devices, including real medical sensors and simulated ones.
 
