@@ -1,0 +1,6 @@
+🔎 Why Federated Learning Fits IDS
+Data privacy: IoT and IoMT traffic often contains sensitive information. Federated learning (FL) ensures raw packets never leave the device or hospital network.
+
+Scalability: Both CIC-DIAD 2024 (33 attacks, 105 IoT devices) and CIC-IoMT 2024 (18 attacks, 40 IoMT devices) are large and heterogeneous. FL allows training across diverse devices without central bottlenecks.
+
+Adaptability: Attack patterns differ by environment (home IoT vs. hospital IoMT). FL lets each node learn local anomalies while contributing to a global IDS model.
